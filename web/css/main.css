@@ -1,0 +1,19 @@
+.img-responsive {
+/*    width: 400px;*/
+/*    height: 200px;*/
+}
+
+.platform img {
+    width: auto;
+    height: 350px;
+}
+ 
+#blue {
+    color: blue;
+    background-color: #444;
+}
+
+#curs {
+    cursor: context-menu;
+    color: #777;
+}
